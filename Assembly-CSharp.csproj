@@ -36,6 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\PathFinder.cs" />
+     <Compile Include="Assets\Scripts\WaveConfigSO.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <None Include="Assets\Asset Packs\Spritesheet\sheet.xml" />
      <None Include="Assets\Asset Packs\license.txt" />
